@@ -1,0 +1,5 @@
+package com.azmi.bankaccountservice.enums;
+
+public enum AccountType {
+    SAVING_ACCOUNT, CURRENT_ACCOUNT
+}
