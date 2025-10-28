@@ -16,7 +16,7 @@ import java.util.Date;
 public class BankAccount {
     @Id
     private String id;
-    private double balance;
+    private Double balance;
     private String currency;
     @Temporal(TemporalType.TIMESTAMP)
     private Date createdAt;

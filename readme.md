@@ -21,3 +21,12 @@
 ![alt text](images/list_banckaccounts_controller.png)
 ### List bank account by id
 ![alt text](images/list_bank_acoount_id.png)
+### Save bank account
+![alt text](images/save_account.png)
+### Update Account by id
+![alt text](images/update_account.png)
+### Delete Account bu id
+![alt text](images/delete_account.png)
+
+
+
