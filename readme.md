@@ -16,3 +16,8 @@
 ![alt text](images/h2_account_table.png)
 
 
+## Web service Restfull
+### List all bank accounts
+![alt text](images/list_banckaccounts_controller.png)
+### List bank account by id
+![alt text](images/list_bank_acoount_id.png)
