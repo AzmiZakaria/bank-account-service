@@ -28,5 +28,13 @@
 ### Delete Account bu id
 ![alt text](images/delete_account.png)
 
+## Spring Data Rest
+![alt text](images/spring_data_rest.png)
+### Projection interface
+![alt text](images/projection.png)
+### Projection resultat
+![alt text](images/resultat_projection.png)
+
+
 
 
